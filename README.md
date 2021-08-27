@@ -44,7 +44,6 @@ Steps for detecting fake news with Python:
 Follow the below steps for detecting fake news and complete your first advanced Python Project –
 
 1. Make necessary imports:
-
 2. Now, let’s read the data into a DataFrame, and get the shape of the data and the first 5 records.
 
 3. And get the labels from the DataFrame.
